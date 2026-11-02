@@ -1,2 +1,6 @@
 Name: N. Muhammad SABEEULLAH
 course : Gen Ai
+skill : 
+-cloud
+-html
+-Excel
